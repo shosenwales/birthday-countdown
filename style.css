@@ -7,7 +7,7 @@ html, body{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     background: #333;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .ayo{
    width: 150px;
@@ -80,5 +80,13 @@ html, body{
     .countdown{
         font-size: 30px;
         flex-direction: column;
+    }
+    .countdown div {
+        padding: 5px;
+      
+    }
+    .countdown span{
+        display: block;
+        font-size:15px;
     }
 }
