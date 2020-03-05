@@ -9,10 +9,10 @@ html, body{
     background: #333;
     overflow: hidden;
 }
-.ayo{
+.bisola{
    width: 150px;
    height: 200px; 
-   border-radius: 40px;
+   border-radius: 50px;
 }
 .landing{
     position: relative;
